@@ -4,7 +4,7 @@ Temperature Unit Convertor
    
    -> It is based on GUI app , built using QT/QML and C++ as backend support.
    
-   -> You have to enter any temperature value whether Fahrenheit, Celsius, or Kelvin it will gives other values in their respective textbox.
+   -> You have to enter any temperature value whether Fahrenheit, Celsius, or Kelvin then click on another textbox it will gives other values in their respective textbox.
    
    Testing
    
