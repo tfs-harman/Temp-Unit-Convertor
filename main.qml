@@ -16,6 +16,7 @@ Window {
     property real cels:0;
     property real kel:0;
     property int a:0;
+    property int b:0;
 
     Item{
         id:itemrectID;
